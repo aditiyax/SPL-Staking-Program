@@ -1,0 +1,13 @@
+1) anchor version was latest(0.30.1), downgraded to 0.29.0
+2) avm version was still stuck as latest
+3) downgraded the solana-program to 1.17.13
+4) deleted cargo.lock  and cargo update // all other stack OF sols
+5) finally used the orginal files from zip alongwith -g compatible anchor -version
+6) build -success & deploy -success
+7) tests failed due to diretory and yarn's error
+8) funding was required in the wallet's so airdroped SOL 
+9) changed rpc url to localnet
+10) used admin.publiKey in line 31-> anchor.test.ts
+11) 3sHneVGVhrbiRCub63aT1xjzVU93kwQN5wojD9bZo5W9BcwKQJFRWjzzPuorqez38rxSqrVB82nuW4zLf1rk1Chs
+
+
