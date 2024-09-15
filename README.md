@@ -1,6 +1,6 @@
-# 🪙 SPL Token Staking Program
+#  SPL Token Staking Program
 
-Welcome to the SPL Token Staking Program! This is a staking smart contract built on the Solana blockchain using the Anchor framework. Stake your SPL tokens and earn rewards—simple and efficient.
+A SPL Token Staking Program! This is a staking smart contract built on the Solana blockchain using the Anchor framework. 
 
 ## 🚀 Getting Started
 
